@@ -16,6 +16,9 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 
 | Username | Nome | Cognome |Organizzazione| ASN |
 |----------|------|---------|-----|-----|
+|[manuelpiacenti](https://t.me/manuelpiacenti) Manuel | Piacenti | [Timenet S.p.A.](https://www.timenet.it/) |  [AS51580](https://www.peeringdb.com/asn/51580) |
+|[beEnry](https://t.me/beEnry)| Enrico | Caruso | [Timenet S.p.A.](https://www.timenet.it/) |  [AS51580](https://www.peeringdb.com/asn/51580) |
+|[yellow_r8](https://t.me/yellow_r8)| Elia | Aielli | [Timenet S.p.A.](https://www.timenet.it/) |  [AS51580](https://www.peeringdb.com/asn/51580) |
 |JustFretto| Stefano | Annese | Erre Elle Net |  [AS47406](https://www.peeringdb.com/asn/47406) |
 |robynhub| Antonio | Bartolini | Connesi S.p.A. | [AS15605](https://www.peeringdb.com/asn/15605) |
 |[Topgunx1](https://t.me/Topgunx1)| Manuel | Baldovini | Passepartout Spa| AS39759 |
@@ -25,7 +28,6 @@ Per aggiungere il proprio nome alla lista e' sufficiente inviare una *pull reque
 |g_bonfiglio | Giorgio | Bonfiglio | AWS | AS16509 |
 |PgB79| Piero | Borello | Quirum | |
 |massimocandela | Massimo | Candela | NTT| [AS2914](https://www.gin.ntt.net/) |
-|[beEnry](https://t.me/beEnry)| Enrico | Caruso | Timenet srl | [AS51580, AS31611](https://www.timenet.it) |
 |[ilvesparossa](https://t.me/ilvesparossa)| Andrea | Castano | Supernap Italia | [AS203201](https://www.peeringdb.com/asn/203201) |
 |pierky | Pier Carlo | Chiodi | Cisco Umbrella | AS36692 |
 |lucacicchelli | Luca | Cicchelli | TOP-IX | AS25309, AS41364, AS209631 |
